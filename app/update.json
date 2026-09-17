@@ -1,7 +1,7 @@
 {
-  "Version": "7.1.3",
-  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.3/streamQ-Setup-7.1.3.exe",
-  "Sha256": "8323ac93dd060300299f0b5ef2f5ef03f1d43ce08db85dc9f6e73ec5b8bc5fc8",
-  "Notes": "Sign-in problems now explain themselves. If the provider refused an account the app used to report \"the server answered 513\", a code Xtream panels invented that looked like a fault in the app. It now says what happened and what to do next.",
+  "Version": "7.1.4",
+  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.4/streamQ-Setup-7.1.4.exe",
+  "Sha256": "dd25f70ed9e06f51cf3f71b338ca1c64d26185318546fbcfc0e2fb179953289e",
+  "Notes": "Errors now explain themselves. An expired subscription says so and offers Renew, an account already playing on another device says that instead of blaming your password, and a stream that will not start now tells you why. The code is still there for support, small and grey, but it is no longer the explanation.",
   "Mandatory": false
 }
