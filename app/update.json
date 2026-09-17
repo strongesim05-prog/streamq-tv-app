@@ -1,7 +1,7 @@
 {
-  "Version": "7.1.2",
-  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.2/streamQ-Setup-7.1.2.exe",
-  "Sha256": "a7830ceaf888f4e27c28880ec0d4ba4571cc4afd442b42cb11c73a15346949dc",
-  "Notes": "You can get back to your search results now: open a channel, and Back to search returns you to the list with everything still there. Opening a channel also no longer uses two of your connections instead of one.",
+  "Version": "7.1.3",
+  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.3/streamQ-Setup-7.1.3.exe",
+  "Sha256": "8323ac93dd060300299f0b5ef2f5ef03f1d43ce08db85dc9f6e73ec5b8bc5fc8",
+  "Notes": "Sign-in problems now explain themselves. If the provider refused an account the app used to report \"the server answered 513\", a code Xtream panels invented that looked like a fault in the app. It now says what happened and what to do next.",
   "Mandatory": false
 }
