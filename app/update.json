@@ -1,7 +1,7 @@
 {
-  "Version": "7.1.6",
-  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.6/streamQ-Setup-7.1.6.exe",
-  "Sha256": "899c6f6fa07a2d6816924cd443e34256419443628df99fc44b149d2a992b038e",
-  "Notes": "The grey edges around 4:3 channels are now properly black, and there is a new picture size button in the player: fit, fill, stretch, or force 16:9 or 4:3. Your choice is remembered.",
+  "Version": "7.1.7",
+  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.7/streamQ-Setup-7.1.7.exe",
+  "Sha256": "2b8b1d73d62ec4f27c941a9a33f191faab1e152fb07fbc746ca969c66651bbc3",
+  "Notes": "Artwork now loads properly as you scroll through Movies and Series. Full screen is really full screen. Settings has a Check now button for new channels and films, and typing into a filter no longer freezes on a large library.",
   "Mandatory": false
 }
