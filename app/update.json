@@ -1,7 +1,7 @@
 {
-  "Version": "7.1.1",
-  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.1/streamQ-Setup-7.1.1.exe",
-  "Sha256": "2513830ca0081f63ed082392decb1e7ad655da6ad1bf8310050089fdd118e181",
-  "Notes": "The subscription reminder now only takes over the home page in the last week. Before that the end date sits quietly beside the library counts. Also fixed a word being cut in half on the loading screen.",
+  "Version": "7.1.2",
+  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.2/streamQ-Setup-7.1.2.exe",
+  "Sha256": "a7830ceaf888f4e27c28880ec0d4ba4571cc4afd442b42cb11c73a15346949dc",
+  "Notes": "You can get back to your search results now: open a channel, and Back to search returns you to the list with everything still there. Opening a channel also no longer uses two of your connections instead of one.",
   "Mandatory": false
 }
