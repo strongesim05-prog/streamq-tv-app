@@ -1,7 +1,7 @@
 {
-  "Version": "7.1.5",
-  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.5/streamQ-Setup-7.1.5.exe",
-  "Sha256": "01840b42a51253141efe522da3463835bdfc7ad955604de7b9c312592943fbc4",
-  "Notes": "Everything you watch. None of the waiting. The first-time setup now shows the five things it is actually doing and ticks each one off with a live count, so you can watch it work instead of watching a spinner.",
+  "Version": "7.1.6",
+  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.6/streamQ-Setup-7.1.6.exe",
+  "Sha256": "899c6f6fa07a2d6816924cd443e34256419443628df99fc44b149d2a992b038e",
+  "Notes": "The grey edges around 4:3 channels are now properly black, and there is a new picture size button in the player: fit, fill, stretch, or force 16:9 or 4:3. Your choice is remembered.",
   "Mandatory": false
 }
