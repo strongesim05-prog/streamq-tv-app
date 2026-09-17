@@ -1,7 +1,7 @@
 {
-  "Version": "7.1.4",
-  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.4/streamQ-Setup-7.1.4.exe",
-  "Sha256": "dd25f70ed9e06f51cf3f71b338ca1c64d26185318546fbcfc0e2fb179953289e",
-  "Notes": "Errors now explain themselves. An expired subscription says so and offers Renew, an account already playing on another device says that instead of blaming your password, and a stream that will not start now tells you why. The code is still there for support, small and grey, but it is no longer the explanation.",
+  "Version": "7.1.5",
+  "Url": "https://github.com/strongesim05-prog/streamq-tv-app/releases/download/v7.1.5/streamQ-Setup-7.1.5.exe",
+  "Sha256": "01840b42a51253141efe522da3463835bdfc7ad955604de7b9c312592943fbc4",
+  "Notes": "Everything you watch. None of the waiting. The first-time setup now shows the five things it is actually doing and ticks each one off with a live count, so you can watch it work instead of watching a spinner.",
   "Mandatory": false
 }
